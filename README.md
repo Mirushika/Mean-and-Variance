@@ -1,6 +1,7 @@
                                           
                                                          Developed by : MIRUSHIKA T
                                                          Register number : 212224040191
+                                                         Department : B.E.CSE
                                                          Date : 29/04/2025
                                                     
 #  Mean and variance of a discrete  distribution
